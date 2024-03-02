@@ -1,4 +1,4 @@
-##Proyecto inet
+# Proyecto inet
 
 Integrantes: Ariel Cruz - Emanuel Cantuta(yox) - Abigail Johanna Villegas Humana
 
